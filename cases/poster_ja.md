@@ -3402,3 +3402,384 @@ repetitive placements
 <img src="../images/poster_case249/output.jpg" width="500">
 
 ---
+
+<!-- Case 250: Hand-Torn Editorial Collage (by @realsigridjin) -->
+
+### Case 250: [Hand-Torn Editorial Collage](https://x.com/realsigridjin/status/2054368795121361249) (by [@realsigridjin](https://x.com/realsigridjin))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
+
+**Prompt:**
+
+```
+Transform the attached image into a collage artwork. Make it appear as if hand-torn from newspapers, magazines, and flyers and pasted. Every single expression should be completed using large, torn pieces of paper. Represent in detail the torn edges, wrinkles, overlaps, and glue marks on the paper. Use relatively large pieces of paper, not too small, and place them randomly at different angles and directions, with the paper orientation rotated haphazardly. Create it to look like an actual collage roughly hand-pasted by a person.
+```
+
+<!-- Case 251: Glowing Sailboat Night Illustration (by @churvikv) -->
+
+### Case 251: [Glowing Sailboat Night Illustration](https://x.com/churvikv/status/2054315113587384469) (by [@churvikv](https://x.com/churvikv))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
+
+**Prompt:**
+
+```
+A luminous sailboat, outlined in glowing golden light, floats serenely on dark, rippling water under a starry night sky. The sails, translucent and faintly blue, catch the ethereal light, while the hull is a solid, dark silhouette. Numerous tiny, twinkling golden stars are scattered across the black expanse above, and a crescent moon hangs softly to the right. Lush, vibrant green reeds and grasses sprout from smooth, grey stones in the foreground, their tips adorned with delicate, glowing golden florets. The water reflects the golden outline of the sailboat, creating a shimmering, warm glow that contrasts with the cool, deep darkness of the night. The scene is composed with a slightly low angle, emphasizing the majestic presence of the sailboat against the vastness of the night. The overall atmosphere is magical, tranquil, and dreamlike, evoking a sense of peaceful adventure and celestial wonder. The style is reminiscent of digital fantasy art with glowing neon accents.
+```
+
+<!-- Case 252: Istanbul Line-Art Travel Poster (by @miilesus) -->
+
+### Case 252: [Istanbul Line-Art Travel Poster](https://x.com/miilesus/status/2054285276780929527) (by [@miilesus](https://x.com/miilesus))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
+
+**Prompt:**
+
+```
+Create a minimalist ultra-high-resolution travel poster in line-art style for ISTANBUL, portraying the city as a stylish everyday urban scene rather than a tourist postcard.
+
+MAIN COMPOSITION:
+
+Central composition features Istanbul’s most iconic everyday urban scene — a lively tram street in Karaköy, Kadıköy, Beyoğlu, Eminönü, or a Bosphorus-side pedestrian avenue filled with daily life.
+
+Foreground includes local residents, commuters, ferry passengers, café visitors, simit sellers, students, cyclists, street musicians, and shoppers naturally interacting within the city.
+
+People should authentically reflect modern Istanbul street fashion, layered urban lifestyle, and contemporary Turkish culture.
+
+Background filled with authentic Turkish signage, tea houses, bookstores, tram lines, ferry terminals, cafés, bakeries, fish restaurants, street lamps, mosques integrated into skyline, apartment façades, hanging laundry, cats, seagulls, and dense architectural textures.
+
+Subtle landmarks blend naturally into daily life rather than dominating the composition — Galata Tower, Bosphorus ferries, nostalgic tram, mosque silhouettes, and waterfront railings should appear integrated into the urban rhythm.
+
+Use authentic Turkish typography and culturally recognizable street elements.
+
+Large centered title at the top: “ISTANBUL”
+
+Subtitle at the bottom in Turkish: “Türkiye” or “İstanbul”
+
+STYLE:
+
+Ultra-clean vector illustration
+Swiss modernist travel poster aesthetic
+Minimalist line-art
+Monoline drawing
+Mid-century editorial illustration style
+Architectural illustration
+Contemporary Turkish graphic poster design
+Crisp geometric perspective
+Extremely clean negative space
+Premium luxury travel-brand aesthetic
+Highly organized visual density
+
+LINE STYLE:
+
+Monochrome line illustration only
+Thin, highly precise lines
+Minimal fill areas
+Intricate city-map-level detailing
+Rhythmic arrangement of tram cables, balconies, ferry rails, windows, signage, cats, street furniture, and waterfront architecture
+Visually dense yet extremely balanced composition
+Ultra-precise vector-quality rendering
+
+COLOR SYSTEM — VERY IMPORTANT:
+
+Use only ONE primary ink color + ONE background color
+Automatically select the color pairing that best represents Istanbul’s atmosphere
+Monochrome silkscreen poster aesthetic
+No rainbow palettes
+No excessive neon
+Color should reflect Istanbul’s maritime atmosphere, historic architecture, ferry culture, and urban warmth
+Recommended palette for Istanbul:
+Deep Bosphorus navy ink on warm cream background
+
+COMPOSITION:
+
+Vertical poster layout
+Frontal street-level perspective
+Pedestrians naturally moving through tram streets, ferry exits, café terraces, and waterfront walkways
+Balanced urban rhythm and architectural layering
+Strong depth perspective with elegant negative space
+Should feel like a premium global city-brand campaign poster
+
+MOOD:
+
+Stylish urban everyday life
+Calm yet vibrant atmosphere
+Sophisticated metropolitan energy
+Timeless city identity
+High-end travel magazine cover aesthetic
+Minimalist yet ultra-detailed
+Elegant Mediterranean-meets-modern urban mood
+
+TEXT QUALITY — EXTREMELY IMPORTANT:
+
+All typography must be clean, readable, and professionally designed
+No random symbols
+No broken or distorted letters
+Turkish signage must appear authentic and natural
+Editorial-grade typography hierarchy
+Premium modernist poster layout
+
+OUTPUT:
+
+Vertical poster composition
+Ultra-detailed 8K resolution
+Print-ready
+Ultra-precise vector-quality rendering
+Luxury travel poster aesthetic
+Museum-quality graphic design composition
+```
+
+<!-- Case 253: Dark Western Outlaw Poster (by @you1873118) -->
+
+### Case 253: [Dark Western Outlaw Poster](https://x.com/you1873118/status/2054366009214316840) (by [@you1873118](https://x.com/you1873118))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
+
+**Prompt:**
+
+```
+高级电影感西部亡命徒海报，竖版 2:3 构图，暗黑西部游戏角色设定海报风格。
+
+一个神秘蒙面牛仔与黑马站在荒漠边境，人物全身正面，宽檐牛仔帽压低，花纹面巾遮住下半张脸，深色长发，黑色皮革手套，黑色西部夹克与多层皮革装备，子弹带、左轮枪套、金属腰带扣、厚重长靴，肩上披着红棕色几何图案披毯，边缘破损飘动。人物姿态冷静危险，一只手靠近枪套。右侧黑马半身入镜，带白色额纹，缰绳细节清晰。
+
+背景是暴风雨中的西部荒漠，闪电、乌云、远处峡谷岩壁、枯树、沙尘、烟雾、火星、泥地反光，氛围压抑史诗。
+
+画面左侧是复古羊皮纸留白，右侧是黑暗风暴场景，强烈明暗分割。加入大号竖排英文标题、通缉令信息、人物档案、坐标、地图网格、细线框、圆形罗盘图形、小红色标记、签名印章等高级海报排版元素。
+
+风格：黑色墨迹飞溅、旧纸纹理、电影级写实、暗黑西部、强烈明暗对比、皮革和金属超细节、尘土、泥点、划痕、烟雾、火星、边缘轮廓光、高级收藏级游戏海报、荒野大镖客氛围、艺术设定集质感、8K、高细节。
+```
+
+<!-- Case 254: Anime Streetwear Mascot Poster (by @Taaruk_) -->
+
+### Case 254: [Anime Streetwear Mascot Poster](https://x.com/Taaruk_/status/2054234237398851768) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
+
+**Prompt:**
+
+```
+Stylized anime streetwear brand poster of a fast-food mascot character, full-body dynamic pose, highly detailed manga/anime illustration, modern urban fashion outfit inspired by the restaurant brand colors and identity, oversized hoodie, tactical straps, sneakers, chains, branded accessories, holding signature food item, bold graphic typography, editorial magazine layout, Japanese text elements, logos, promotional stickers, menu-style side panels, grunge textures, paint splashes, distressed paper background, collectible poster aesthetic, cyber street fashion meets commercial advertising, vibrant red/orange/black/white color palette, dramatic lighting, ultra detailed line art, cel-shaded anime rendering, energetic composition, high contrast, trendy hypebeast vibe, futuristic fast-food campaign art, iconic mascot redesign, layered collage graphics, branding everywhere on clothing and background, premium anime poster quality, vertical composition, sharp shadows, dynamic perspective, stylish and playful attitude.
+```
+
+<!-- Case 255: Wildlife Infographic Reference Poster (by @sha_zdiii) -->
+
+### Case 255: [Wildlife Infographic Reference Poster](https://x.com/sha_zdiii/status/2054229209460117552) (by [@sha_zdiii](https://x.com/sha_zdiii))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
+
+**Prompt:**
+
+```
+.
+
+Create a premium cinematic wildlife infographic poster centered around a rare or visually unique animal species such as (animal). The entire artwork must feel like a futuristic luxury wildlife dossier rather than a normal educational infographic.
+The animal should dominate the composition with intense photorealistic detail: ultra-detailed fur/scales, realistic eyes, moisture textures, cinematic shadows, environmental interaction, dramatic posture, visible muscle definition, floating particles, and powerful eye contact.
+The environment must fully match the chosen species: (environment).
+Build dense layered infographic storytelling around the animal using: • anatomy callouts
+• adaptation systems
+• prey and diet visuals
+• ecosystem overlays
+• conservation status indicators
+• geographic range maps
+• hunting behavior graphics
+• climate danger visuals
+• detail inserts
+• tactical icon systems
+• scientific labels and compact data snippets
+The layout should feel highly artistic and cinematic instead of educational. Use: • asymmetric editorial composition
+• layered transparent info panels
+• premium typography
+• subtle paper grain textures
+• contour-line overlays
+• holographic UI elements
+• cinematic infographic markers
+• museum-grade visual hierarchy
+Blend: (luxury editorial aesthetic) + (cinematic documentary realism) + (futuristic infographic design) + (collectible field-guide energy).
+Color Theme: (color theme)
+Mood: (mood)
+Lighting: dramatic cinematic lighting, volumetric fog, glowing rim light, atmospheric haze, realistic environmental reflections, high contrast shadows, ultra-premium editorial lighting.
+The final artwork must look like a viral collectible wildlife poster people would instantly save, repost, print, and frame.
+Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premium art direction, tactile textures, layered storytelling, emotional visual impact, museum-quality composition, viral social-media-worthy aesthetic.
+```
+
+<!-- Case 256: Ancient Civilization Miniature Diorama (by @Naiknelofar788) -->
+
+### Case 256: [Ancient Civilization Miniature Diorama](https://x.com/Naiknelofar788/status/2054221110372405534) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
+
+**Prompt:**
+
+```
+A highly detailed miniature diorama of an ancient civilization under construction, displayed directly on top of large rolled-out architectural blueprints spread across a realistic wooden drafting table. The scene features iconic historical architecture from [CIVILIZATION OR LOCATION], including partially completed monuments, temples, towers, walls, palaces, streets, or ceremonial structures at different stages of construction. Tiny craftsmen, builders, engineers, and workers interact naturally throughout the scene using historically accurate tools, scaffolding, ramps, cranes, carts, stone blocks, timber frameworks, and construction platforms.
+The miniature terrain blends seamlessly into the printed engineering drawings beneath, combining realistic sand, stone, earth, marble, vegetation, or desert textures with visible architectural floor plans, elevation sketches, measurements, annotations, and cross-sections. Surrounding the workspace are drafting instruments, compasses, rolled parchment plans, books, rulers, brass weights, candles, maps, carving tools, and historical reference materials that enhance the workshop atmosphere.
+Soft cinematic lighting with warm natural sunlight from a nearby window, shallow depth of field, ultra realistic textures, handcrafted museum-quality scale model aesthetic, intricate miniature detailing, photoreal materials, atmospheric realism, editorial architectural photography style, clean composition, immersive world-building, vertical composition, extremely high detail, realistic shadows, authentic historical mood.
+```
+
+<!-- Case 257: Japanese Fashion Collage Poster (by @Mind_Boticni) -->
+
+### Case 257: [Japanese Fashion Collage Poster](https://x.com/Mind_Boticni/status/2054203134411739609) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
+
+**Prompt:**
+
+```
+Cinematic vertical collage featuring a Japanese woman in elegant fashion captured during golden sunset. Background composed of warm-toned rounded storyboard frames arranged diagonally, each showing soft monochrome motion scenes—running fingers through hair, walking on bridge, looking at skyline, soft smile in wind. The main subject is in rich color with glowing sunset highlights, wearing flowing rust-orange designer dress with natural fabric movement. Emotional storytelling mood, romantic cinematic tone, high-end fashion editorial poster style.
+```
+
+<!-- Case 258: Bangkok Swiss Typography Poster (by @Shorelyn_) -->
+
+### Case 258: [Bangkok Swiss Typography Poster](https://x.com/Shorelyn_/status/2054196121980002523) (by [@Shorelyn_](https://x.com/Shorelyn_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
+
+**Prompt:**
+
+```
+Create an ultra-high-resolution Swiss modernist typography travel poster for BANGKOK THAILAND in a premium 16:9 layout.
+
+CORE CONCEPT:
+A massive bold condensed sans-serif word “BANGKOK” dominates the center composition.
+Each individual letter acts as a precise geometric window containing minimalist flat-vector illustrations of iconic Bangkok landmarks and authentic urban life scenes.
+
+INSIDE THE LETTERS INCLUDE:
+
+Grand Palace
+
+Wat Arun
+
+Wat Pho
+
+Chao Phraya River
+
+Tuk-tuks
+
+BTS Skytrain
+
+Long-tail boats
+
+Chinatown signage
+
+Rooftop bars
+
+Street food stalls
+
+Temple roofs
+
+Bangkok modern skyline
+
+The scenes inside each letter must transition seamlessly across the typography, creating one continuous panoramic urban narrative while preserving perfectly clean letter edges and flawless typography integrity.
+
+TOP PANORAMIC RIBBON:
+At the very top edge of the poster, create a thin elegant panoramic strip showing:
+
+Bangkok skyline silhouette
+
+BTS train
+
+River boats
+
+Birds
+
+Palm trees
+
+Cars and scooters
+
+Stylized tropical sun
+
+Minimal clouds
+
+STYLE & AESTHETIC:
+Swiss Graphic Design meets Mid-Century Modern travel poster aesthetics.
+Flat vector illustration only.
+Architectural infographic precision.
+100% clean geometric shapes.
+No gradients.
+No photorealism.
+No textures.
+No grain.
+No AI distortion.
+No warped typography.
+
+VISUAL EXECUTION:
+
+Sharp vector edges
+
+Sophisticated negative space
+
+Balanced composition
+
+Minimalist architectural detailing
+
+Precise geometric shadows
+
+Museum-grade poster quality
+
+Editorial luxury aesthetic
+
+COLOR PALETTE:
+Muted premium Southeast Asian palette inspired by Bangkok:
+
+River teal
+
+Warm coral
+
+Tropical gold
+
+Ivory
+
+Slate blue
+
+Soft terracotta
+
+BACKGROUND:
+Soft ivory or premium warm white background.
+
+TYPOGRAPHY:
+Professional kerning and spacing.
+Perfectly legible text.
+Human-designed graphic identity feel.
+Large title:
+“BANGKOK”
+Small elegant subtitle underneath:
+“THAILAND”
+
+ATMOSPHERE:
+Intellectual, calm, avant-garde, collectible luxury travel poster found in a museum design store.
+
+OUTPUT:
+Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-end editorial poster design.
+```
+
+<!-- Case 259: Miniature Travel World Poster (by @Goodmanprotocol) -->
+
+### Case 259: [Miniature Travel World Poster](https://x.com/Goodmanprotocol/status/2054074803381018750) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
+
+**Prompt:**
+
+```
+A cinematic hyper-detailed miniature travel diorama resting inside an open human palm, themed around [CITY/COUNTRY NAME] tourism and travel. A realistic passport and official travel visa card stand upright in the center of a tiny landscape inspired by the destination, surrounded by miniature travelers with luggage, scattered suitcases, local vegetation, iconic cultural elements, and detailed environmental textures matching the location. In the background, the famous skyline and landmark architecture of [CITY/COUNTRY NAME] rise softly with atmospheric depth, while the national flag waves beside the documents. A commercial airplane flies overhead in a bright blue sky with soft clouds. Ultra-realistic textures, shallow depth of field, warm sunlight, soft cinematic shadows, macro photography style, tilt-shift miniature effect, vibrant tourism atmosphere, highly detailed handcrafted diorama aesthetic, realistic skin texture on the hand, premium travel advertisement look --ar 1:1
+```
