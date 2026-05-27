@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![583 Curated Prompts](https://img.shields.io/badge/Prompts-583_Curated_Cases-111111)](README.md)
+[![583 Curated Prompts](https://img.shields.io/badge/Prompts-589_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -79,6 +79,8 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
 ## 📰 Actualités
+
+**27 mai 2026 :** Ajout de 6 nouveaux cas de prompts GPT-Image-2 (1 portrait, 3 poster, 1 UI, 1 comparaison) du lot de curation quotidien après revue et validation des médias
 
 **19 mai 2026:** Ajout de 23 nouveaux cas de prompts GPT-Image-2 (13 portrait, 8 affiche, 2 UI) du lot de curation quotidien
 
@@ -1563,6 +1565,18 @@ Scene/backdrop: Incheon airport observation deck near a glass wall, pale runway 
 
 Wardrobe: oversized crisp white shirt loosely open at collar, light wash denim shorts, white sneakers.
 ```
+### Case 258: Korean Fashion Collage Poster
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2059447270115029120)
+
+**Prompt**:
+```
+Young Korean woman in ultra-realistic style in the uploaded image, elegant collage poster, fitted black t-shirt with minimalist logo, black denim shorts, black high-top Nike sneakers, long straight silky dark black hair with soft strands framing the face, glossy nude peach lips, Douyin-style makeup, winged eyeliner, soft pink blush, radiant skin, long eyelashes, dual composition with large portrait and full-length flowing hair, golden cinematic lighting, ink splash effects, luxurious white background, ultra-detailed, 8K, 3:4.
+```
+
+**Output**:
+
+<img src="images/portrait_case258/output.jpg" width="500">
 
 
 ## 🎨 Poster & Illustration Cases
@@ -2642,6 +2656,42 @@ Create a high-impact professional basketball poster design for a fictional live 
 ```
 把我生成这张照片女主角的角色卡片：包含正面侧面背面三视图，以及多表情面部特写，和手部不同动作的特写，保持女主角的外貌发型身材服饰气质完全不变
 ```
+### Case 314: Roland Garros Tennis Trailer
+
+**Source**: [@egeberkina](https://x.com/egeberkina/status/2059311137808675128)
+
+**Prompt**:
+```
+Ultra cinematic 15-second tennis commercial for Roland Garros 2026. Hand-drawn ink-and-marker illustration aesthetic mixed with dynamic modern sports animation. Deep navy shadows, saturated clay orange courts, rough sketch textures, imperfect pen strokes, paper grain, energetic scribble motion lines. Every frame feels like an animated editorial sports illustration brought to life. Includes a full 0:00 to 0:15 shot flow with VFX, SFX, music direction, style references, and negative style constraints (not anime, not Pixar, not clean vector art).
+```
+
+**Output**:
+
+<img src="images/poster_case314/output.jpg" width="500">
+### Case 315: Papercut Chibi Diorama
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2059317825026904533)
+
+**Prompt**:
+```
+Cute layered paper-cut art style illustration of a chibi girl with big expressive eyes and long wavy black hair, designed like a 3D sticker character with a white outline border. The scene is made entirely from textured pastel paper craft layers with soft shadows and handcrafted details. Cozy whimsical environment with wooden bridges, colorful flowers, trees, clouds, amusement park elements, festival kites, and cute outdoor scenery. Soft pastel color palette, dreamy atmosphere, miniature diorama aesthetic, ultra-detailed paper texture, kawaii cartoon style, cinematic composition, depth layered papercraft, handcrafted scrapbook look, adorable fashion outfit, oversized shoes, playful pose, warm lighting, storybook fantasy vibe, highly detailed 3D paper illustration.
+```
+
+**Output**:
+
+<img src="images/poster_case315/output.jpg" width="500">
+### Case 317: Eagle vs Lion Stadium Clash
+
+**Source**: [@guicastellanos1](https://x.com/guicastellanos1/status/2059304406290505820)
+
+**Prompt**:
+```
+A colossal, highly detailed, realistic anthropomorphic Sun Eagle representing Argentina and a massive muscular anthropomorphic Golden Lion representing England. The Eagle wears the classic Argentina national football team jersey with sky-blue and white vertical stripes. The Lion wears the classic England white football kit with a red crest. Dramatic wide shot from a low angle, looking up at the two massive beasts facing off on a rain-slicked stadium pitch under bright realistic floodlights. Packed world-class football stadium at night, realistic turf, detailed seating, volumetric haze. Photorealistic sports photography mixed with cinematic fantasy, sharp details, natural skin and feather textures, highly detailed fabrics, dynamic rim lighting, lens flares, shallow depth of field, natural color grading with dramatic shadows.
+```
+
+**Output**:
+
+<img src="images/poster_case317/output.jpg" width="500">
 
 
 ## 🧍 Character Design Cases
@@ -2969,6 +3019,18 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 ```
 Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
 ```
+### Case 161: [Sitcom Intro Storyboard Sheet](https://x.com/KimAkiyama81/status/2059390326578511931) (by [@KimAkiyama81](https://x.com/KimAkiyama81))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Create a professional film production storyboard for a 15-second sitcom intro montage in a premium pitch deck presentation. Use multi-panel storyboard sheet layout, cinematic 16:9 framing per panel, clean panel borders, shot descriptions beneath each frame, timing notes, and transition indicators between panels. Maintain strict character consistency for Super Mei, Edvard, and Fenrir across all panels. Include a complete sequence of title flash, living room, backyard walkies, kitchen powers, convenience store raid, monster battle, bonus domestic comedy beats, closing hero shot, and logo slam. Visual style: cinematic sitcom, high-budget live-action network comedy, production-ready fidelity, not animated or illustrated.
+```
+
 
 ## 🧪 Comparison & Community Examples
 
@@ -3179,6 +3241,18 @@ Footer:
 •LIGHT & STYLE: warm golden Saturday morning light, fluffy pancake golds, rich amber maple syrup, fresh blueberry blues, bright pink t-shirt, creamy batter whites, Pixar vivid warm colors throughout
 •DAD NOTES: one dad, one Saturday, one very happy girl in a pink t-shirt. Golden, fluffy, and made with love.​​​​​​​​​​​​​​​​
 ```
+### Case 89: [Solar Desert Worldbuilding Kit](https://x.com/iamaiistudio/status/2059335346861781102) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Build a full visual worldbuilding kit for a futuristic solar-powered desert civilization. Include multiple images covering architecture, characters, clothing, vehicles, and maps, all sharing one cohesive design language, with cinematic realism and ultra detailed finish.
+```
+
 
 ## 🤝 How to Contribute
 
